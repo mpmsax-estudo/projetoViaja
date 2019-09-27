@@ -1,0 +1,15 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "viajanet",
+  "description": "appengine-php-guestbook ================================",
+  "version": "1.0.0",
+  "main": "Gruntfile.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
